@@ -1,0 +1,2 @@
+CISCO PACKET TRACER FILE
+When you open file all routers and switches are operating tested working correctly. Please notify me on packet issues or better ways to organize connectivity, DNS, or the servers.
